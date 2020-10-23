@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">alvaroons app</string>
+    <string name="app_initial_msj">Willkommen</string>
+    <string name="enter_text_button">Betreten</string>
+</resources>

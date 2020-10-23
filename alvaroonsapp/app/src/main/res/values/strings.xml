@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">alvaroons app</string>
+    <string name="app_initial_msj">Bienvenido</string>
+    <string name="enter_text_button">Entrar</string>
+</resources>
